@@ -72,4 +72,4 @@ The script prints the regression equation and Mean Squared Error (MSE) in the co
 - The residual plot evaluates the distribution of errors.
 
 ## Contact
-For any queries or feedback, feel free to contact [Your Name] at [Your Email].
+For any queries or feedback, feel free to contact TannuWorks at agapaitanveermou@gmail.com.
